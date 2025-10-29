@@ -2,6 +2,8 @@
 This is for fun! I'm incorporating more functionality over time, slowly adding the capacity to simulate more phenomena.
 Right now, this simulator operates on two-dimensional circular bodies.
 
+<img width="1080" height="720" alt="68300" src="https://github.com/user-attachments/assets/33d22605-5c3d-4848-be1c-93e503009cba" />
+
 ## Current Features
 These circular bodies are characterized by radius, mass, charge, and elasticity. They can be assigned initial positions and velocities.
 The following can currently affect the bodies:
